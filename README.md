@@ -5,6 +5,7 @@
 - https://www.linkedin.com/in/davidcontrerasarguello/
 
 ## Habilidades y SoftSkills
+
 [!NOTE]
 Estas habilidades las estoy desarrollando en mis estudios.
   
