@@ -5,14 +5,24 @@
 - https://www.linkedin.com/in/davidcontrerasarguello/
 
 ## Habilidades y SoftSkills
-- Estas habilidades las estoy desarrollando en mis estudios.
-  
+### Estas habilidades las estoy desarrollando en mis estudios. ⚙️
+
 - HTML, CSS, JavaScript
 - Java
-- Python
+- PHP
+- Laravel
+- React
+- XML
+- JSON
+- Bootstrap
+- Node.js
+- Express.js
+- Docker
+- Wordpress
 
 - Bases de datos
-  - MySQL
+  - SQL
+  - MongoDB
  
 - GitHub
 
